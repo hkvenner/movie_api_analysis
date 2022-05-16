@@ -1,11 +1,16 @@
-Movie Title,Runtime,Genre,Award Wins,Award Nominations,Box Office
-Parasite,132,"Comedy, Drama, Horror",308,271,53369749
-Green Book,130,"Biography, Comedy, Drama",59,124,85080171
-The Shape of Water,123,"Drama, Fantasy, Romance",138,358,63859435
-Moonlight,111,Drama,228,296,27854932
-Spotlight,129,"Biography, Crime, Drama",124,143,45055776
-Birdman or (The Unexpected Virtue of Ignorance),119,"Comedy, Drama",193,292,42340598
-12 Years a Slave,134,"Biography, Drama, History",242,337,56671993
-Argo,120,"Biography, Drama, Thriller",94,156,136025503
-The Artist,100,"Comedy, Drama, Romance",162,204,44671682
-The King's Speech,118,"Biography, Drama, History",108,206,138797449
+Movie Title,Runtime,Genre,Award Wins,Award Nominations,Box Office,Director,Plot,DVD
+Parasite,132,"Comedy, Drama, Horror",308,271,53369749,Bong Joon Ho,Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.,11 Oct 2019
+Green Book,130,"Biography, Comedy, Drama",59,124,85080171,Peter Farrelly,A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.,12 Mar 2019
+The Shape of Water,123,"Drama, Fantasy, Romance",138,358,63859435,Guillermo del Toro,"At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",13 Mar 2018
+Moonlight,111,Drama,228,296,27854932,Barry Jenkins,"A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",28 Feb 2017
+Spotlight,129,"Biography, Crime, Drama",124,143,45055776,Tom McCarthy,"The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",23 Feb 2016
+Birdman or (The Unexpected Virtue of Ignorance),119,"Comedy, Drama",193,292,42340598,Alejandro G. Iñárritu,"A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",17 Feb 2015
+12 Years a Slave,134,"Biography, Drama, History",242,337,56671993,Steve McQueen,"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",04 Mar 2014
+Argo,120,"Biography, Drama, Thriller",94,156,136025503,Ben Affleck,"Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",19 Feb 2013
+The Artist,100,"Comedy, Drama, Romance",162,204,44671682,Michel Hazanavicius,An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.,24 Apr 2012
+The King's Speech,118,"Biography, Drama, History",108,206,138797449,Tom Hooper,"The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",19 Apr 2011
+Encanto,102,"Animation, Comedy, Family",40,76,96093622,"Jared Bush, Byron Howard, Charise Castro Smith",A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.,N/A
+King Richard,144,"Biography, Drama, Sport",46,133,15129285,Reinaldo Marcus Green,A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.,19 Nov 2021
+Drive My Car,179,Drama,73,95,2352240,Ryûsuke Hamaguchi,A renowned stage actor and director learns to cope with his wife's unexpected passing when he receives an offer to direct a production of Uncle Vanya in Hiroshima.,02 Mar 2022
+Dune,155,"Action, Adventure, Drama",158,262,108327830,Denis Villeneuve,A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.,22 Oct 2021
+West Side Story,156,"Crime, Drama, Musical",67,278,38530322,Steven Spielberg,"An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",02 Mar 2022
